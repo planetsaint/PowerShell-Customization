@@ -1,5 +1,10 @@
 # PowerShell-Customization
-Windows PowerShell setup and customization for coding environment. 
+Windows PowerShell setup and customization for coding environment.
+
+1. What is needed for this setup:
+
+    - Windows terminal
+    - PowerShell 7
 
 1. **Install Scoop package manager**:
 ```
