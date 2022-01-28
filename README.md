@@ -81,7 +81,7 @@ Install-Module -Name PsFzf -Scope CurrentUser -Force
 **Fuzzy File Finder**
 ![prompt3-fzf](https://user-images.githubusercontent.com/47113271/151487588-dcb8f8fd-1d4f-4676-bdf6-9877a464248b.jpg)
 
-**Reverse Command Histroy**
+**Reverse command histroy using Fzf**
 ![prompt4-fzfhistory](https://user-images.githubusercontent.com/47113271/151487585-5c9ac82e-62bd-4b7b-8b6c-75500c0e7f39.jpg)
 
 **Scoop list**
