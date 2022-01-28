@@ -48,7 +48,6 @@ Install-Module oh-my-posh -Scope CurrentUser -Force
 10. Add path (In nvim window):
 ```
 . $env:USERPROFILE\.config\powershell.ps1
-
 ```
 11. **Install Terminal Icons**:
 ```
