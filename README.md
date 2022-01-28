@@ -1,6 +1,8 @@
 # PowerShell-Customization
 Windows PowerShell setup and customization for coding environment.
 
+![prompt1](https://user-images.githubusercontent.com/47113271/151485730-d51a6f26-daf1-4dce-b376-93db7dd9e47f.jpg)
+
 1. What is needed for this setup:
 
     - Windows terminal
