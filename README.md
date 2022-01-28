@@ -63,5 +63,6 @@ Install-Module -Name PsReadline -AllowPrerelease -Scope CurrentUser -Force -Skip
 Install-Module -Name PsFzf -Scope CurrentUser -Force
 ```
 
-14. Install Nerd Font included in Root directory 'CascadiaCode.Nerd.Font.Complete.ttf'
-15. Select said font in windows terminal settings
+14. Install Nerd Font included in Root directory '_CascadiaCode.Nerd.Font.Complete.ttf_'.
+15. Select said font in windows terminal settings.
+16. Open windows terminal JSON themes, paste contents of '_Settings.JSON_' in file and save.
