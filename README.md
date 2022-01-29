@@ -4,11 +4,10 @@ Windows PowerShell setup and customization for coding environment.
 **_Snippets included below._**
 
 ## Requirements 
-
-    1. Windows terminal
-        - Download from windows store.
-    2. PowerShell 7:
-        - https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.2
+1. Windows terminal
+    - Download from windows store.
+2. PowerShell 7:
+    - https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.2
  <br>
  
 ## Installation and Environment Setup
