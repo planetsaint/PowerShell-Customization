@@ -3,13 +3,15 @@ Windows PowerShell setup and customization for coding environment.
 
 **_Snippets included below._**
 
-1. What is needed for this setup:
+## Requirements 
 
-    - Windows terminal
-        -Download from windows store.
-    - PowerShell 7
-        -https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.2
-
+    1. Windows terminal
+        - Download from windows store.
+    2. PowerShell 7:
+        - https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.2
+ <br>
+ 
+## Installation and Environment Setup
 1. **Install Scoop package manager**:
 ```
 iwr -useb get.scoop | iex
@@ -66,11 +68,17 @@ Install-Module -Name PsReadline -AllowPrerelease -Scope CurrentUser -Force -Skip
 Install-Module -Name PsFzf -Scope CurrentUser -Force
 ```
 
-14. Install Nerd Font included in Root directory '_CascadiaCode.Nerd.Font.Complete.ttf_'.
-15. Select said font in windows terminal settings.
-16. Open windows terminal JSON themes, paste contents of '_Settings.JSON_' in file and save.
+<br>
 
-**Snippets**:
+## Fininshing Touches
+
+1. Install Nerd Font included in Root directory '_CascadiaCode.Nerd.Font.Complete.ttf_'.
+2. Select said font in windows terminal settings.
+3. Open windows terminal JSON themes, paste contents of '_Settings.JSON_' in file and save.
+
+<br>
+
+## Snipets
 
 **Listing files**:
 ![prompt1](https://user-images.githubusercontent.com/47113271/151487593-0a4b28d6-ec66-4890-909a-9bb910125016.jpg)
